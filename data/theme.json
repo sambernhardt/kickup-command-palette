@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "primitive/grayDark": "#29363d",
+    "primitive/grayMediumDark": "#55666f",
+    "primitive/grayMedium": "#87949b",
+    "primitive/grayMediumLight": "#d9e0e3",
+    "primitive/grayLight": "#f0f3f5",
+    "primitive/graySuperLight": "#f7f9fa",
+    "primitive/blue": "#007da0",
+    "primitive/red": "#ea6153",
+    "text/primary": "#161f23",
+    "text/tertiary": "#55666f",
+    "text/secondary": "#425662",
+    "text/danger": "#e91600",
+    "text/link": "#007da0"
+  },
+  "textStyles": {},
+  "fonts": [],
+  "fontSizes": [],
+  "fontWeights": [],
+  "lineHeights": []
+}

@@ -7,7 +7,7 @@
 #### 1. Download/clone this repository  
 `git clone https://github.com/sambernhardt/pulse-extension.git`  
 <sub><sup>or</sup></sub>  
-Download https://github.com/sambernhardt/pulse-extension/archive/master.zip
+Download https://github.com/sambernhardt/pulse-extension/archive/main.zip
 
 #### 3. Turn on "Developer mode" on the Extensions page in Chrome.
 

@@ -19,8 +19,8 @@ Download https://github.com/sambernhardt/pulse-extension/archive/master.zip
 
 ## Features
 #### Keyboard Shortcuts ⚡️
-- cmd + / - Open command palette
-- Enter - Navigate to the selected item
+- `cmd` + `/`: Open command palette
+- `Enter`: Navigate to the selected item
 
 #### Switch District ⚡️
 - Auto-focused search input

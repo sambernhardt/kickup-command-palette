@@ -20,6 +20,7 @@ Download https://github.com/sambernhardt/pulse-extension/archive/main.zip
 ## Features
 #### Keyboard Shortcuts ⚡️
 - `cmd` + `/`: Open command palette
+- Up/down arrow keys to change the selected item
 - `Enter`: Navigate to the selected item
 
 #### Switch District ⚡️

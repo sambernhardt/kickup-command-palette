@@ -19,9 +19,10 @@ Download https://github.com/sambernhardt/pulse-extension/archive/master.zip
 
 ## Features
 #### Keyboard Shortcuts ⚡️
-- / - Quick Search
+- cmd + / - Open command palette
+- Enter - Navigate to the selected item
 
 #### Switch District ⚡️
-- Auto-focus search bar
+- Auto-focused search input
 - Recent selections
 - Save districts by marking them with a star

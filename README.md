@@ -1,4 +1,4 @@
-# Pulse Extension ⚡️
+# KickUp command palette ⚡️
 
 ![preview](preview.gif)
 

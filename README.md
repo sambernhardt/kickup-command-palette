@@ -1,4 +1,4 @@
-# KickUp command palette ⚡️
+# KickUp Command Palette ⚡️
 
 ![preview](preview.gif)
 
